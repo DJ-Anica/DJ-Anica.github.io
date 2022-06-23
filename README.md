@@ -1,2 +1,3 @@
 # DJ-Anica.github.io
-A website demonstrating my HTML/CSS projects.
+A collection of my HTML/CSS projects.
+
