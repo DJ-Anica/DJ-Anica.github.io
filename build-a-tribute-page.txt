@@ -1,0 +1,279 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css"/>
+    </head>
+<body>
+  <main id="main">
+    <h1 id="title"><strong>Eugene Bullard</strong></h1><br>
+    <h3>The Black Swallow of Death</h3>
+    <p id="rouge-quote"><i>"Tout sang que coule est rouge"</i></p>
+    <figure id="img-div">
+    <img
+        id="image"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg/549px-Eugene_Jacques_Bullard%2C_first_African_American_combat_pilot_in_uniform%2C_First_World_War.jpg"
+        ALT="Eugene Bullard"/>
+        <figcaption id="img-caption">
+          <i>Eugene Bullard, in uniform, as corporal in the French military, 1916.</i>
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <p class="bio"><strong>Eugene Bullard</strong><br>
+        Horse jockey, prize fighting boxer, Jazz musician, soldier, spy, fighter pilot.
+          </p>
+        <p class="bio">As an African-American living in Georgia, Bullard experienced rampant racism that plagued the Deep South. One incident involving his father proved to be the catalyst that spurred Bullard to escape the throes of racial hate. Having witnessed a mob of white supremacists attempt to lynch his father, a young Eugene vowed to escape his hellish reality by escaping the United States and settling in France - a Utopian France that Eugene's father often spoke of, where Black men and White men lived in harmony as equals.
+
+        </p>
+        <p class="bio">Bullard made history by becoming the first African-American to fly as a fighter pilot. However, Bullard did not fly for the United States - he flew for France. Bullard served with distinction in WWI and WWII, and acquired many medals for his exploits during both wars.
+        </p>
+
+        <h3 id="headline">Eugene Bullard's historical timeline:</h3>
+        <ul>
+          <li><strong>9 October 1895</strong> - Born in Columbus, Georgia, USA, as the 7th child out of 10.
+          </li>
+          <li>
+            <strong>1906</strong> - Bullard, age 11, runs away from home in an attempt to find refuge in France.
+          </li>
+          <li>
+            <strong>1906-1911</strong> - Bullard's first stop on his journey to France is in Atlanta Georgia. During these years, Bullard works tending horses and learns how to horserace. The Turner family in Dawson, Georgia, asks Bullard to race their horses as a jockey. Horse jockeying is the first of many successes that Bullard experiences in his life.
+          </li>
+          <li>
+            <strong>1912</strong> - Bullard makes his way to Virginia to seek passage to Europe as a stowaway. Mistaken as a dock worker, Eugene uses this opportunity to stowaway on the ship in hope of sailing to Europe. The ship, however, docks in another port in Virginia. Determined to make it to France, Eugene seeks the help of the crewman in finding a ship that is headed to Europe; the crew point him to the <i>Marta Russ</i>.
+          </li>
+          <li>
+            <strong>4 March 1912</strong> - Eugene, at the age of 12, becomes a stowaway on the <i>Marta Russ</i>, a German freighter bound for Scotland. During the voyage to Scotland, Eugene picks up the German language from the crewmates. Bullard's work ethic and demeanor charms the crew so much that they accept him as one of their own, and send him off with wages and supplies to help him reach France.
+          </li>
+          <li>
+            <strong>August 1912</strong> - Eugene Bullard arrives in Liverpool, England. Here, Bullard becomes employed in a union as a longshoreman and finds success as a prizefighting boxer, catching the eye of professional boxer <a
+            id="dixie-link"
+            href="https://en.wikipedia.org/wiki/Dixie_Kid"
+            target="_blank"
+            >Dixie Kid</a>.
+          </li>
+          <li>
+            <strong>1913</strong> - Dixie Kid arranges some boxing matches for Bullard in Paris, which allows Bullard to finally enter and reside in France.
+          </li>
+          <li>
+            <strong>August 1914</strong> - WWI begins.
+          </li>
+          <li>
+            <strong>19 October 1914</strong> - At the age of 19, Eugene Bullard answers the call of duty and enlists in the French Foreign Legion, compelled to serve the country that has been his utopia. Bullard is assigned to the 3rd Marching Regiment, aka <em>the Swallows of Death</em>, as a Machine Gunner. 
+          </li>
+          <li>
+            <strong>1915-1916</strong> - Eugene fights in some of the worst battles of WWI, including the Battle of the Somme, Artois, and the 2nd Battle of Champagne.
+            After fighting with distinction, Bullard is transferred to the French Military's 170th infantry regiment. While in this unit, Bullard will eventually fight in the Battle of Verdun.
+          </li>
+          <li>
+            <strong>March 1916</strong> - At the Battle of Verdun, Bullard is horribly wounded. He is removed from ground combat permanently. For his actions, France awards Bullard the Croix de Guerre - a French military decoration awarded for gallant action in war.
+          </li>
+          <li>
+            <strong>October 1916</strong> - While recovering in Lyons, Bullard's friend makes a $2,000 bet with him (equivalent of $53,000 today) that Bullard wouldn't be able to join the French Air Service. After recovery, Bullard successfully joins the French Air Service as an air gunner.
+            </li>
+          <li>
+            <strong>May 1917</strong> - After completing flight training, Eugene Bullard becomes the first African-American combat pilot in the world. 
+          </li>
+          <li>
+            <strong>1917</strong> - Once America joined the skirmish in WWI, Bullard, and other American pilots who had flown for French squadrons, attempted to join the US flying corps. All  pilots were accepted except Bullard, the only African-American pilot.
+          </li>
+          <li>
+            <strong>1919-1938</strong> - When WWI ended, Bullard emerged as one of France's most decorated warriors, cementing him as one of France's national heroes. The United States, however, never knew about his exploits until many decades later.<br>
+            In post-WWI France, Bullard's circle consisted of some of the most prominent figures of the time, including Josephine Baker, F. Scott Fitzgerald, and Louis Armstrong.
+          </li>
+          <li>
+            <strong>1939</strong> - During the rise of the Nazi's, Bullard - having learned the German language aboard the <i>Marta Russ</i> - used his status as a jazzclub owner to spy on the Nazi's that frequented his club.
+          Bullard was one of the first people to learn about the upcoming invasion of Poland before it occured. His information was ignored by French officials.
+          </li>
+          <li>
+            <strong>1959</strong> - French General Charles de Gaulle made Bullard a <em>Chevalier de a Legion d'honneur</em> (Knight of the Legion of Honor). This is France's highest military honor.
+            </li>
+        </ul>
+        <blockquote
+          cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+        >
+          <p>
+            "[Eugene Bullard is] a true French hero."
+          </p>
+          <cite>- French President Charles de Gaulle</cite>
+        </blockquote>
+        <h3 class="h3-foot">
+          To learn more details of Eugene Bullard's extraordinary life, read his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Eugene_Bullard"
+            target="_blank"
+            >Wikipedia page</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  font-family: sans-serif, 'Roboto',
+    'Helvetica Neue', Arial;
+  font-size: 1.5rem;
+  line-height: 1;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+#main {
+  margin: 30px 10px;
+  padding: 15px;
+  background: #eee;
+}
+
+.bio {
+  text-family: Georgia, serif;
+  line-height: 1.25;
+}
+
+.bio, ul {
+  font-size: 1rem;
+  padding: 
+}
+
+h1 {
+  font-size: 4.5rem;
+  min-width: 150px;
+  margin-bottom: -20;
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+#rouge-quote {
+  font-size: 1rem;
+  font-style: oblique;
+}
+
+img {
+  width: 75%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  font-size: .75rem;
+  font-weight: bold;
+}
+
+ul {
+  max-width: 700px;
+  margin: 0 auto auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  line-height: .75;
+  display: block;
+  height: auto;
+  margin: 40 auto 35px auto;
+  text-align: center;
+  background: white;
+  padding: 5px 10px 20px 10px;
+  min-width: 50px;
+  max-width: 800px;
+}
+
+blockquote > p {
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-align: center;
+  font-style: none;
+  line-height: 1;
+}
+
+blockquote > cite {
+  font-size: 1.2rem;
+  font-weight: 50;
+  text-align: center;
+  font-style: italic;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+.h3-foot {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+  color: #333;
+  margin-top: 20;
+}
+
+
+
+/*
+
+    MEDIA SCREEN
+
+*/
+
+
+
+@media screen and (max-width: 500px) {
+  h1 {
+  font-size: 2.8rem;
+  min-width: 200px;
+  margin-bottom: -20;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+  blockquote {
+    line-height: .75;
+    height: auto;
+    min-width: 50px;
+    max-width: 340px;
+    text-align: center;
+    background: white;
+    padding: 20px 5px 20px 5px;
+  }
+
+blockquote > p {
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+blockquote > cite {
+  font-size: .9rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+.h3-foot {
+  margin-top: 25;
+}
+}
+
+
+
+** end of undefined **
+
