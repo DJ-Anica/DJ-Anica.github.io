@@ -1,0 +1,146 @@
+<!--
+      THIS FILE IS A DEMONSTRATION OF MY HTML/CSS capabilities
+-->
+
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link type="text/css" rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <nav id="navbar">
+      <header>Python Tutorial (Project)</header>
+      <ul>
+        <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+      <li><a class="nav-link" href="#Syntax">Syntax</a></li>
+      <li><a class="nav-link" href="#Comments">Comments</a></li>
+      <li><a class="nav-link" href="#Data_Types">Data Types</a></li>
+      <li><a class="nav-link" href="#Reference">Reference</a></li><hr>
+      </ul>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <article>
+        <p>
+          Python is one of the most popular programming languages in the world.</p> 
+          <p>Released in 1991, it is a high-level programming language that is easy to understand due to its simple syntax.</p>
+        <p>Python can be used for:<ul>
+            <li>Web development</li>
+            <li>Software development</li>
+            <li>Mathematics</li>
+            <li>Building web applications</li>
+        </p></ul>
+        <p>Code examples will display the following format:
+        <code><strong>Python function:</strong>    >>> print("<em>Text goes here</em>")
+<strong>Screen output:</strong>    Text goes here
+        </code></p>
+  <br>
+      </article>
+    </section>
+
+    <section class="main-section" id="Syntax">
+      <header>Syntax</header>
+      <article>
+      <p>Syntax refers to the structure of the language. Python's syntax merely means certain conditions need to be met in order for Python to run correctly. Here, we will cover the basic syntax rules for Python.</p>
+      <p>First, parenthesis are used to group statements or to call functions.
+        <code>>>> print("5 + 3")
+8
+        </code></p><br>
+        <p>Second, blocks of code must <strong>end</strong> with a colon(:) at the <em>end of the first line</em>, and every subsequent line of code must be indented. </p>
+        <code>>>> x = 5
+          >>> if x < 10:
+          &nbsp; &nbsp; &nbsp; print("x is less than 10.")
+          x is less than 10.</code><br>
+      </article>
+    </section>
+
+    <section class="main-section" id="Comments">
+      <header>Comments</header>
+      <article>
+      <p>Comments have various functions in Python.Some of these functions include:
+        <ul>
+          <li>Explaining Python code, known as "documentation."</li>
+          <li>Preventing execution of specific blocks of code. </li>
+          <li>Making your code easier to read</li></ul>
+      </p>
+      <p>Comments are denoted by the octothorpe symbol (#), aka the number/hash/pound sign.</p>
+        <code>>>> #This is a comment
+>>> print("Line 1")
+>>> print("Line 2") #This is another comment
+>>> #print("Line 3")
+Line 1
+Line 2
+        </code>
+      </article>
+    </section>
+
+    <section class="main-section" id="Data_Types">
+      <header>Data Types</header>
+      <article>
+      <p>This section will cover several basic numeric, string, and Boolean types that are built into Python.</p>
+      <p>
+        <ul>
+          <li><strong>Text data types</strong><br>
+            Text in Python are known as "strings." They are denoted by being enclosed in quotation marks.</li>
+            <ul>
+              <li>str</li>
+              <code>"This is a string."</code>
+            </ul>
+          <li><strong>Numeric data types</strong><br>
+          Numbers can be one of three numeric data types. In this basic tutorial, we will only cover the two most common numeric types: integers and floats.</li>
+            <ul>
+              <li>int</li>
+                <code>5<br>7<br>100</code>
+              <li>float</li>
+                <code>2.5<br>1.0<br>3.14</code>
+            </ul>
+          <li><Strong>Boolean data types</strong><br>
+          Boolean types represent one of two values:<br>"True" or "False". </li>
+              <ul>
+                <li>Bool</li>
+                <code>True<br>False</code>
+              </ul>
+          </ul>
+      </p>
+      <p>You can find the data type of any object by using the <em>type()</em> function:</p>
+        <code>>>> x = 10
+          >>> y = 3.14
+          >>> z = "Hello!"
+          >>> print(type(x))
+          >>> print(type(y))
+          >>> print(type(z))
+          
+          &lt;class 'int'>
+          &lt;class 'float'>
+          &lt;class 'str'>
+
+          >>> print(10 > 5)
+          >>> print(10 == 5)
+          True
+          False
+        </code>
+      </article>
+    </section>
+
+
+    <section class="main-section" id="Reference">
+        <header>Reference</header>
+        <article>
+          <p>
+              All of the documentation in this page is taken from
+              <a
+                href="https://www.learnpython.org/"
+                target="_blank"
+                >Learnpython</a>.</p>
+            
+        </article>
+      </section>
+
+    </main>
+    </body>
+
+  </html>
